@@ -12,3 +12,10 @@ C:\Users\crowcasso\Documents\GitHub\420_fall14\GameOne\GameOne\GameOne\obj\x86\D
 C:\Users\crowcasso\Documents\GitHub\420_fall14\GameOne\GameOne\GameOne\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\crowcasso\Documents\GitHub\420_fall14\GameOne\GameOne\GameOne\obj\x86\Debug\GameOne.exe
 C:\Users\crowcasso\Documents\GitHub\420_fall14\GameOne\GameOne\GameOne\obj\x86\Debug\GameOne.pdb
+\\cs.elon.edu\ptraunfeld\csc420\joelsVersion2\GameOne\GameOne\GameOne\bin\x86\Debug\Content\Images\LadyZ.xnb
+\\cs.elon.edu\ptraunfeld\csc420\joelsVersion2\GameOne\GameOne\GameOne\bin\x86\Debug\GameOne.exe
+\\cs.elon.edu\ptraunfeld\csc420\joelsVersion2\GameOne\GameOne\GameOne\bin\x86\Debug\GameOne.pdb
+\\cs.elon.edu\ptraunfeld\csc420\joelsVersion2\GameOne\GameOne\GameOne\obj\x86\Debug\GameOne.csprojResolveAssemblyReference.cache
+\\cs.elon.edu\ptraunfeld\csc420\joelsVersion2\GameOne\GameOne\GameOne\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+\\cs.elon.edu\ptraunfeld\csc420\joelsVersion2\GameOne\GameOne\GameOne\obj\x86\Debug\GameOne.exe
+\\cs.elon.edu\ptraunfeld\csc420\joelsVersion2\GameOne\GameOne\GameOne\obj\x86\Debug\GameOne.pdb

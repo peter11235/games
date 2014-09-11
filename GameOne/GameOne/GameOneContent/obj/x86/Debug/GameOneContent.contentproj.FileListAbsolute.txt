@@ -1,2 +1,3 @@
 C:\Users\crowcasso\Documents\GitHub\420_priv\GameOne\GameOne\GameOneContent\obj\x86\Debug\GameOneContent.contentprojResolveAssemblyReference.cache
 C:\Users\crowcasso\Documents\GitHub\420_fall14\GameOne\GameOne\GameOneContent\obj\x86\Debug\GameOneContent.contentprojResolveAssemblyReference.cache
+\\cs.elon.edu\ptraunfeld\csc420\joelsVersion2\GameOne\GameOne\GameOneContent\obj\x86\Debug\GameOneContent.contentprojResolveAssemblyReference.cache

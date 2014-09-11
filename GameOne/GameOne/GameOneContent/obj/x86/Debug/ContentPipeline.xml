@@ -7,8 +7,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\crowcasso\Documents\GitHub\420_fall14\GameOne\GameOne\GameOne\bin\x86\Debug\Content\Images\LadyZ.xnb</Output>
-      <Time>2014-09-05T11:27:49.3958282-04:00</Time>
+      <Output>\\cs.elon.edu\ptraunfeld\csc420\joelsVersion2\GameOne\GameOne\GameOne\bin\x86\Debug\Content\Images\LadyZ.xnb</Output>
+      <Time>2014-09-11T10:56:47.1928263-04:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -16,10 +16,10 @@
       <TargetProfile>HiDef</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\crowcasso\Documents\GitHub\420_fall14\GameOne\GameOne\GameOneContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\crowcasso\Documents\GitHub\420_fall14\GameOne\GameOne\GameOne\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\crowcasso\Documents\GitHub\420_fall14\GameOne\GameOne\GameOneContent\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\crowcasso\Documents\GitHub\420_fall14\GameOne\GameOne\GameOne\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>\\cs.elon.edu\ptraunfeld\csc420\joelsVersion2\GameOne\GameOne\GameOneContent\</RootDirectory>
+      <LoggerRootDirectory>\\cs.elon.edu\ptraunfeld\csc420\joelsVersion2\GameOne\GameOne\GameOne\</LoggerRootDirectory>
+      <IntermediateDirectory>\\cs.elon.edu\ptraunfeld\csc420\joelsVersion2\GameOne\GameOne\GameOneContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>\\cs.elon.edu\ptraunfeld\csc420\joelsVersion2\GameOne\GameOne\GameOne\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
@@ -48,7 +48,7 @@
       </Assembly>
       <Assembly>
         <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
-        <Value>2014-08-20T12:11:27.4675888-04:00</Value>
+        <Value>2014-06-03T11:43:08.4825911-04:00</Value>
       </Assembly>
     </Assemblies>
   </Asset>
